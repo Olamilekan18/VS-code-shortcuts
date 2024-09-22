@@ -1,0 +1,18 @@
+Ctrl + back arrow  Hide and show terminal
+Ctrl + B hide and show side bar
+Ctrl + Shift + E --- To go back to side bar
+Ctrl + Shift + F --- To go to search on the side bar
+Ctrl + F --- To search in  a document
+Ctrl + / --- To comment a lie
+Ctrl + Shift + G --- To go to source control
+Ctrl + Shift + X --- To show extensions
+Ctrl + K + Z --- Only show current file and nothing else. Same to go out
+Ctrl + P --- To open a file
+Ctrl + K + S -- To save all files
+Ctrl + Home/End --- To go the beginning and end of a file
+Shift + F3 --- Use with ctrl + F to navigate findings
+Shift + F12 -- Shows where code has been used
+F12--- To visit the definition
+Ctrl + W --- To stop tab
+
+//Will continue later.
